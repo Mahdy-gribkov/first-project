@@ -1,0 +1,19 @@
+body {
+  background-image: url(https://www.wowpatterns.com/assets/files/resource_images/red-hot-chillii-peppers-pattern-on-white-background.jpg);
+}
+p {
+  font-size: larger;
+  color: darkviolet;
+}
+strong {
+  font-weight: bolder;
+}
+p.rtl {
+  direction: rtl;
+}
+p.rtl {
+  direction: rtl;
+}
+p{
+  color: blueviolet;
+}
